@@ -1,0 +1,11 @@
+@import 'partials/colors';
+@import 'partials/reset';
+@import 'partials/container';
+
+
+body {
+  transition: background-color 0.1s linear;
+  font-family: 'Ubuntu', sans-serif;
+  background-color:  $bgcolor;
+}
+
